@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: spring-boot-1.5.15.RELEASE.jar spring-aop-4.3.18.RELEASE.j
+ ar jul-to-slf4j-1.7.25.jar logback-core-1.1.11.jar spring-beans-4.3.1
+ 8.RELEASE.jar jcl-over-slf4j-1.7.25.jar spring-boot-autoconfigure-1.5
+ .15.RELEASE.jar spring-expression-4.3.18.RELEASE.jar slf4j-api-1.7.25
+ .jar mybatis-3.4.0.jar tomcat-jdbc-8.5.32.jar log4j-over-slf4j-1.7.25
+ .jar spring-tx-4.3.18.RELEASE.jar mybatis-spring-boot-starter-1.1.1.j
+ ar logback-classic-1.1.11.jar snakeyaml-1.17.jar mybatis-spring-1.3.0
+ .jar spring-core-4.3.18.RELEASE.jar spring-context-4.3.18.RELEASE.jar
+  mysql-connector-java-5.1.21.jar tomcat-juli-8.5.32.jar spring-boot-s
+ tarter-1.5.15.RELEASE.jar spring-jdbc-4.3.18.RELEASE.jar spring-boot-
+ starter-jdbc-1.5.15.RELEASE.jar mybatis-spring-boot-autoconfigure-1.1
+ .1.jar jsch-0.1.53.jar spring-boot-starter-logging-1.5.15.RELEASE.jar
+Main-Class: com.sshgui.demo.SSHGUI
+
